@@ -4,7 +4,7 @@ st.set_page_config(page_title='Main Page',
                    layout='wide',
                    page_icon='👋')
 
-st.title('Main Page')
+st.title('Home Page')
 
 with open('Resume.pdf', 'rb') as file:
     st.download_button('PDF Resume', data=file, file_name='Zaid_resume.pdf')
