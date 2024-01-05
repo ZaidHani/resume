@@ -15,7 +15,7 @@ projects_html = '''
         <li>Sci-Kit Learn</li>
     </ul>
     <h3>👾 Data Science Chatbot</h3>
-    <p>This chatbot was a part of a Hackathon held by <a href="lablab.me">lablab.me</a>. The chatbot was built to answer your questions related to data science or the data field in general, you can ask the chatbot yourself <a href="https://datachatbot.streamlit.app">here!</a></p>
+    <p>This chatbot was a part of a Hackathon held by <a href="https://lablab.me">lablab.me</a>. The chatbot was built to answer your questions related to data science or the data field in general, you can ask the chatbot yourself <a href="https://datachatbot.streamlit.app">here!</a></p>
     <ul>Tools used:
         <li>TensorFlow</li>
         <li>NLTK</li>
