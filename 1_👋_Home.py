@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title='Main Page',
+st.set_page_config(page_title='Home Page',
                    layout='wide',
                    page_icon='👋')
 
